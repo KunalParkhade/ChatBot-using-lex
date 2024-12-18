@@ -3,7 +3,7 @@ _(Link is not availabe because of AWS Free Tier limits)_
 
 __Amazon Lex is an AWS service to build chatbot that will take the user input in text or voice format and it will give response accordingly. It is useful because it provides end-to-end solution to build, publish, deploy and monitor chatbots.__
 
-- Intents are like what do you want from chatbot conversation to do.
+- Intents are like what do you want from chatbot conversation to do. (Refer to Part 1)[https://github.com/KunalParkhade/ChatBot-using-lex/blob/main/legendary-aws-ai-lex1.pdf]
 
 - Slots are chunks of information that a chatbot needs to complete user's
 request.
